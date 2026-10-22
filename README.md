@@ -1,5 +1,5 @@
 # 🚀 Salesforce Trailhead Journey
-
+Starting my journey in AI and Agentforce. This repository documents my first steps and achievements on Trailhead.
 Hello! I'm Paulo Renato dos Santos Souza and this repository documents my learning journey in AI and Agentforce, aiming to become an **Agentblazer Champion**.
 
 ## 📅 My Learning Timeline
@@ -41,7 +41,7 @@ Hello! I'm Paulo Renato dos Santos Souza and this repository documents my learni
 ---
 
 # 🚀 Jornada no Salesforce Trailhead
-
+Iniciando minha jornada em IA e Agentforce. Este repositório documenta meus primeiros passos e conquistas no Trailhead.
 Olá! Sou Paulo Renato dos Santos Souza e este repositório documenta minha jornada de aprendizado em IA e Agentforce, com o objetivo de me tornar um **Agentblazer Champion**.
 
 ## 📅 Minha Linha do Tempo de Estudos
