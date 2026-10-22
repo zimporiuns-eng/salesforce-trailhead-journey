@@ -10,11 +10,11 @@ Hello! I'm Paulo Renato dos Santos Souza and this repository documents my learni
 
 ## 🏆 Badges Earned
 
-- <img src="Torne_se_um_Agentblander_badge.webp" width="100" align="middle" /> **Becoming an Agentblazer** - Earned on 01/08/2026 (100 points)
-- <img src="Noções_básicas_de_inteligência_artificial_badge.webp" width="100" align="middle" /> **Artificial Intelligence Fundamentals** - Earned on 23/08/2026 (200 points)
-- <img src="Noções_básicas_de_IA_generativa_badge.webp" width="100" align="middle" /> **Generative AI Basics** - Earned on 10/09/2026 (200 points)
-- <img src="Noções_básicas_de_Processamento_de_linguagem_natural_badge.webp" width="100" align="middle" /> **Natural Language Processing Basics** - Earned on 13/09/2026 (200 points)
-- <img src="Grande_Modelos_de_Linguagem_badge.webp" width="100" align="middle" /> **Large Language Models** - Earned on 17/09/2026 (200 points)
+- <img src="badge-agentblazer.webp" width="100" align="middle" /> **Becoming an Agentblazer** - Earned on 01/08/2026 (100 points)
+- <img src="badge-ai-fundamentals.webp" width="100" align="middle" /> **Artificial Intelligence Fundamentals** - Earned on 23/08/2026 (200 points)
+- <img src="badge-generative-ai.webp" width="100" align="middle" /> **Generative AI Basics** - Earned on 10/09/2026 (200 points)
+- <img src="badge-nlp.webp" width="100" align="middle" /> **Natural Language Processing Basics** - Earned on 13/09/2026 (200 points)
+- <img src="badge-llm.webp" width="100" align="middle" /> **Large Language Models** - Earned on 17/09/2026 (200 points)
 
 ## 📚 Completed Modules
 
@@ -52,11 +52,11 @@ Olá! Sou Paulo Renato dos Santos Souza e este repositório documenta minha jorn
 
 ## 🏆 Badges Conquistados
 
-- <img src="Torne_se_um_Agentblander_badge.webp" width="100" align="middle" /> **Tornar-se um Agentblazer** - Concluído em 01/08/2026 (100 pontos)
-- <img src="Noções_básicas_de_inteligência_artificial_badge.webp" width="100" align="middle" /> **Noções básicas de inteligência artificial** - Concluído em 23/08/2026 (200 pontos)
-- <img src="Noções_básicas_de_IA_generativa_badge.webp" width="100" align="middle" /> **Noções básicas de IA generativa** - Concluído em 10/09/2026 (200 pontos)
-- <img src="Noções_básicas_de_Processamento_de_linguagem_natural_badge.webp" width="100" align="middle" /> **Noções básicas de Processamento de linguagem natural** - Concluído em 13/09/2026 (200 pontos)
-- <img src="Grande_Modelos_de_Linguagem_badge.webp" width="100" align="middle" /> **Grandes modelos de linguagem** - Concluído em 17/09/2026 (200 pontos)
+- <img src="badge-agentblazer.webp" width="100" align="middle" /> **Tornar-se um Agentblazer** - Concluído em 01/08/2026 (100 pontos)
+- <img src="badge-ai-fundamentals.webp" width="100" align="middle" /> **Noções básicas de inteligência artificial** - Concluído em 23/08/2026 (200 pontos)
+- <img src="badge-generative-ai.webp" width="100" align="middle" /> **Noções básicas de IA generativa** - Concluído em 10/09/2026 (200 pontos)
+- <img src="badge-nlp.webp" width="100" align="middle" /> **Noções básicas de Processamento de linguagem natural** - Concluído em 13/09/2026 (200 pontos)
+- <img src="badge-llm.webp" width="100" align="middle" /> **Grandes modelos de linguagem** - Concluído em 17/09/2026 (200 pontos)
 
 ## 📚 Módulos Concluídos
 
